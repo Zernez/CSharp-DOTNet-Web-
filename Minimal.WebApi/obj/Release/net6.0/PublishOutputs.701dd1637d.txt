@@ -1,0 +1,9 @@
+C:\Csharp_dotnet\PracticalApps\Minimal.WebApi\bin\Release\net6.0\publish\Minimal.WebApi.exe
+C:\Csharp_dotnet\PracticalApps\Minimal.WebApi\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Csharp_dotnet\PracticalApps\Minimal.WebApi\bin\Release\net6.0\publish\appsettings.json
+C:\Csharp_dotnet\PracticalApps\Minimal.WebApi\bin\Release\net6.0\publish\Minimal.WebApi.dll
+C:\Csharp_dotnet\PracticalApps\Minimal.WebApi\bin\Release\net6.0\publish\Minimal.WebApi.deps.json
+C:\Csharp_dotnet\PracticalApps\Minimal.WebApi\bin\Release\net6.0\publish\Minimal.WebApi.runtimeconfig.json
+C:\Csharp_dotnet\PracticalApps\Minimal.WebApi\bin\Release\net6.0\publish\Minimal.WebApi.pdb
+C:\Csharp_dotnet\PracticalApps\Minimal.WebApi\bin\Release\net6.0\publish\Northwind.Common.dll
+C:\Csharp_dotnet\PracticalApps\Minimal.WebApi\bin\Release\net6.0\publish\Northwind.Common.pdb

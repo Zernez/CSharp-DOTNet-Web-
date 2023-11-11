@@ -1,0 +1,3 @@
+C:\Csharp_dotnet\PracticalApps\Northwind.Common\bin\Release\net6.0\publish\Northwind.Common.dll
+C:\Csharp_dotnet\PracticalApps\Northwind.Common\bin\Release\net6.0\publish\Northwind.Common.deps.json
+C:\Csharp_dotnet\PracticalApps\Northwind.Common\bin\Release\net6.0\publish\Northwind.Common.pdb

@@ -1,0 +1,3 @@
+C:\Csharp_dotnet\PracticalApps\Northwind.BlazorWasm\Shared\bin\Release\net6.0\publish\Northwind.BlazorWasm.Shared.dll
+C:\Csharp_dotnet\PracticalApps\Northwind.BlazorWasm\Shared\bin\Release\net6.0\publish\Northwind.BlazorWasm.Shared.deps.json
+C:\Csharp_dotnet\PracticalApps\Northwind.BlazorWasm\Shared\bin\Release\net6.0\publish\Northwind.BlazorWasm.Shared.pdb
