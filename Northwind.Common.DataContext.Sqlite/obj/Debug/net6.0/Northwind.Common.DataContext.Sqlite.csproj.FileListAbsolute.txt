@@ -1,0 +1,15 @@
+C:\Csharp_dotnet\PracticalApps\Northwind.Common.DataContext.Sqlite\bin\Debug\net6.0\Northwind.Common.DataContext.Sqlite.deps.json
+C:\Csharp_dotnet\PracticalApps\Northwind.Common.DataContext.Sqlite\bin\Debug\net6.0\Northwind.Common.DataContext.Sqlite.dll
+C:\Csharp_dotnet\PracticalApps\Northwind.Common.DataContext.Sqlite\bin\Debug\net6.0\Northwind.Common.DataContext.Sqlite.pdb
+C:\Csharp_dotnet\PracticalApps\Northwind.Common.DataContext.Sqlite\bin\Debug\net6.0\Northwind.Common.EntityModels.Sqlite.dll
+C:\Csharp_dotnet\PracticalApps\Northwind.Common.DataContext.Sqlite\bin\Debug\net6.0\Northwind.Common.EntityModels.Sqlite.pdb
+C:\Csharp_dotnet\PracticalApps\Northwind.Common.DataContext.Sqlite\obj\Debug\net6.0\Northwind.Common.DataContext.Sqlite.csproj.AssemblyReference.cache
+C:\Csharp_dotnet\PracticalApps\Northwind.Common.DataContext.Sqlite\obj\Debug\net6.0\Northwind.Common.DataContext.Sqlite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp_dotnet\PracticalApps\Northwind.Common.DataContext.Sqlite\obj\Debug\net6.0\Northwind.Common.DataContext.Sqlite.AssemblyInfoInputs.cache
+C:\Csharp_dotnet\PracticalApps\Northwind.Common.DataContext.Sqlite\obj\Debug\net6.0\Northwind.Common.DataContext.Sqlite.AssemblyInfo.cs
+C:\Csharp_dotnet\PracticalApps\Northwind.Common.DataContext.Sqlite\obj\Debug\net6.0\Northwind.Common.DataContext.Sqlite.csproj.CoreCompileInputs.cache
+C:\Csharp_dotnet\PracticalApps\Northwind.Common.DataContext.Sqlite\obj\Debug\net6.0\Northwind.Common.DataContext.Sqlite.csproj.CopyComplete
+C:\Csharp_dotnet\PracticalApps\Northwind.Common.DataContext.Sqlite\obj\Debug\net6.0\Northwind.Common.DataContext.Sqlite.dll
+C:\Csharp_dotnet\PracticalApps\Northwind.Common.DataContext.Sqlite\obj\Debug\net6.0\refint\Northwind.Common.DataContext.Sqlite.dll
+C:\Csharp_dotnet\PracticalApps\Northwind.Common.DataContext.Sqlite\obj\Debug\net6.0\Northwind.Common.DataContext.Sqlite.pdb
+C:\Csharp_dotnet\PracticalApps\Northwind.Common.DataContext.Sqlite\obj\Debug\net6.0\ref\Northwind.Common.DataContext.Sqlite.dll

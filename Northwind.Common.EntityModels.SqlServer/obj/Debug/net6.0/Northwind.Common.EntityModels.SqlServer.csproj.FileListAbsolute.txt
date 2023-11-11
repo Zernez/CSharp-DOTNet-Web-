@@ -1,0 +1,14 @@
+C:\Csharp_dotnet\PracticalApps\Northwind.Common.EntityModels.SqlServer\bin\Debug\net6.0\Northwind.Common.EntityModels.SqlServer.deps.json
+C:\Csharp_dotnet\PracticalApps\Northwind.Common.EntityModels.SqlServer\bin\Debug\net6.0\Northwind.Common.EntityModels.SqlServer.runtimeconfig.json
+C:\Csharp_dotnet\PracticalApps\Northwind.Common.EntityModels.SqlServer\bin\Debug\net6.0\Northwind.Common.EntityModels.SqlServer.dll
+C:\Csharp_dotnet\PracticalApps\Northwind.Common.EntityModels.SqlServer\bin\Debug\net6.0\Northwind.Common.EntityModels.SqlServer.pdb
+C:\Csharp_dotnet\PracticalApps\Northwind.Common.EntityModels.SqlServer\obj\Debug\net6.0\Northwind.Common.EntityModels.SqlServer.csproj.AssemblyReference.cache
+C:\Csharp_dotnet\PracticalApps\Northwind.Common.EntityModels.SqlServer\obj\Debug\net6.0\Northwind.Common.EntityModels.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp_dotnet\PracticalApps\Northwind.Common.EntityModels.SqlServer\obj\Debug\net6.0\Northwind.Common.EntityModels.SqlServer.AssemblyInfoInputs.cache
+C:\Csharp_dotnet\PracticalApps\Northwind.Common.EntityModels.SqlServer\obj\Debug\net6.0\Northwind.Common.EntityModels.SqlServer.AssemblyInfo.cs
+C:\Csharp_dotnet\PracticalApps\Northwind.Common.EntityModels.SqlServer\obj\Debug\net6.0\Northwind.Common.EntityModels.SqlServer.csproj.CoreCompileInputs.cache
+C:\Csharp_dotnet\PracticalApps\Northwind.Common.EntityModels.SqlServer\obj\Debug\net6.0\Northwind.Common.EntityModels.SqlServer.dll
+C:\Csharp_dotnet\PracticalApps\Northwind.Common.EntityModels.SqlServer\obj\Debug\net6.0\refint\Northwind.Common.EntityModels.SqlServer.dll
+C:\Csharp_dotnet\PracticalApps\Northwind.Common.EntityModels.SqlServer\obj\Debug\net6.0\Northwind.Common.EntityModels.SqlServer.pdb
+C:\Csharp_dotnet\PracticalApps\Northwind.Common.EntityModels.SqlServer\obj\Debug\net6.0\Northwind.Common.EntityModels.SqlServer.genruntimeconfig.cache
+C:\Csharp_dotnet\PracticalApps\Northwind.Common.EntityModels.SqlServer\obj\Debug\net6.0\ref\Northwind.Common.EntityModels.SqlServer.dll
